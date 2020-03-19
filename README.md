@@ -8,6 +8,7 @@ Steps :
 3. Type mvn spring-boot:run from the root directory of the project to run the application.
 
 Support
+
 GET : http://localhost:8080/leads
 
 GET : http://localhost:8080/leads/{id}
